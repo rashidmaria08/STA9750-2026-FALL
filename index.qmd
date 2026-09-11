@@ -3,7 +3,7 @@ title: "Maria Rashid"
 format: html
 editor: visual
 ---
-My name is Maria Rashid. I am a student at Baruch College, pursing my Masters in Business Analytics.  
+My name is Maria Rashid. I am a student at Baruch College, pursing my Master's in Business Analytics.  
 
 ```{r}
 #| include: false
