@@ -268,4 +268,8 @@ Another recommendation I have for Netflix is that they should continue to invest
 
 
 
-AI usage: ChatGPT was used to help write the code in this project, but all non-code text was generated without the use of any Generative AI tools. 
+::: {.callout-note collapse="true" title="AI Usage Statement"}
+
+ChatGPT was used to help write the code in this project, but all non-code text was generated without the use of any Generative AI tools.
+
+:::
